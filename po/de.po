@@ -5323,7 +5323,7 @@ msgstr ""
 
 #: misc/mke2fs.c:2862 misc/mke2fs.c:2893 misc/tune2fs.c:741 misc/tune2fs.c:760
 msgid "done\n"
-msgstr "erledgt\n"
+msgstr "erledigt\n"
 
 #: misc/mke2fs.c:2869
 msgid "Skipping journal creation in super-only mode\n"
